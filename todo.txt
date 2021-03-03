@@ -1,0 +1,26 @@
+Tickersymbole besorgen für:
+    S&P 500
+    Tec Dax -> https://de.wikipedia.org/wiki/TecDAX
+    Nikkei
+    
+
+Ark invest ETF'S
+    Ticker Symbole in eigenen Dataframe (zusammengefasst)
+    überprüfen ob diese Mark Minervinis Kriterien entsprechen
+
+Möglichkeit der Aus- bzw. An- und Abwahl der Kriterien
+Möglichkeit zusätzliche Kriterien auszuwählen
+Möglichkeit den Zeitraum (start, end) zu ändern
+
+Ausgabe des erstellten Portfolios
+
+    Eigenes Label für jeden Eintag inkl checkbox zur An- und Abwahl, sowie einem Button zur Anzeige weiterer Infos 
+    zu dem betreffenden Unternehmen
+    Dies muß vermutlich in einem eigenen Canvas für jeden Eintrag geschehen.
+    
+    Das erstellte Portfolio muß nach Eingabe eines Betrags welcher zur Verfügung steht, von der Anwendung
+    optimal erstellt werden (als csv Datei?)
+
+Backtesting
+Risiko Analyse - ggf schon bei der Portfolio Erstellung
+Gebühren (maxblue?)
